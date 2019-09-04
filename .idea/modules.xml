@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pagerank.iml" filepath="$PROJECT_DIR$/pagerank.iml" />
+      <module fileurl="file://C:/develop/q3000/Common/tools/ztools_base_1/ztools_base_1.iml" filepath="C:/develop/q3000/Common/tools/ztools_base_1/ztools_base_1.iml" />
+    </modules>
+  </component>
+</project>
